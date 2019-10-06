@@ -48,7 +48,16 @@
 
 换成mini dp接口即可.(hdmi可以在开机启动后插入)
 
+### 需要驱动四条内存怎么办?
+
+使用config_imac.plist文件启动即可
+
 ## 更新日志
+2019.10.16
+
+- 更换机型为MacBookPro13,3 
+- 备份imac机型的config文件
+
 2019.09.29
 
 - 更新readme
