@@ -156,7 +156,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-f dart=0 npci=0x3000 nvda_drv=1 kext-dev-mode=1 uia_exclude=HS03;HS07;HS08;HS09;HS12;HS13;HS14;USR1;USR2 darkwake=0 </string>
+		<string>-f dart=0 npci=0x3000 nvda_drv=1 kext-dev-mode=1 uia_exclude=HS03;HS07;HS08;HS09;HS12;HS13;HS14;USR1;USR2 darkwake=0 -no_compat_check </string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
