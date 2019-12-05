@@ -127,6 +127,34 @@
 					WFBSVwI=
 					</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>TBUS = 0x02</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					VEJVUwoD
+					</data>
+					<key>Replace</key>
+					<data>
+					VEJVUwoC
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>PR00._PDC to XPDC</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1BEQwlwQ1BEQ2hgR0NBUA==
+					</data>
+					<key>Replace</key>
+					<data>
+					WFBEQwlwQ1BEQ2hgR0NBUA==
+					</data>
+				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>

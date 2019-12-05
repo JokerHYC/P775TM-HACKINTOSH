@@ -299,33 +299,33 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/17/2018</string>
+		<string>09/17/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM142.88Z.0131.B00.1809171347</string>
+		<string>MBP151.88Z.F000.B00.1909172039</string>
 		<key>Board-ID</key>
-		<string>Mac-27ADBB7B4CEE8E61</string>
+		<string>Mac-937A206F2EE63C01</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>D25320802CDF8YLAD</string>
+		<string>C02806303GUJP4FJA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
+		<string>MacBook-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string>0x0D</string>
+		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>133.0.0.0.0</string>
+		<string>1037.0.78.0.0</string>
 		<key>Family</key>
-		<string>iMac</string>
+		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xE00FE137</string>
+		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -333,15 +333,15 @@
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
 		<key>Mobile</key>
-		<false/>
+		<true/>
 		<key>PlatformFeature</key>
-		<string>0x01</string>
+		<string>0x02</string>
 		<key>ProductName</key>
-		<string>iMac14,2</string>
+		<string>MacBookPro15,1</string>
 		<key>SerialNumber</key>
-		<string>D25KQ0RYF8JC</string>
+		<string>C02W70HYKGYG</string>
 		<key>SmUUID</key>
-		<string>F5BAE9F0-0AAB-423A-9859-C0D27F11E8CB</string>
+		<string>BD4494C5-8EED-4E65-B742-F4DAA8BB823B</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
