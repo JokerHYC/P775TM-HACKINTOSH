@@ -44,10 +44,9 @@
 ##可正常启动机型记录
 
 1. iMac14,2
-
 2. MacBookPro13,3
-
 3. MacBookPro15,1 (当前使用)
+
 
 ## 常见问题解答
 
@@ -60,6 +59,10 @@
 
 
 ## 更新日志
+2020.05.28
+
+- 增加gpu温度传感器
+
 2019.12.5
 
 - 经[liaoyudong2](https://github.com/liaoyudong2)大神改进过后,可以睡眠,可以typec热插拔.
