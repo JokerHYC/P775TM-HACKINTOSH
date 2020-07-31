@@ -23,9 +23,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>VEJVUwoD</data>
+					<data>
+					VEJVUwoD
+					</data>
 					<key>Replace</key>
-					<data>VEJVUwoC</data>
+					<data>
+					VEJVUwoC
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -33,9 +37,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SEVDSQ==</data>
+					<data>
+					SEVDSQ==
+					</data>
 					<key>Replace</key>
-					<data>SU1FSQ==</data>
+					<data>
+					SU1FSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -43,9 +51,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1ExMQ==</data>
+					<data>
+					X1ExMQ==
+					</data>
 					<key>Replace</key>
-					<data>WFExMQ==</data>
+					<data>
+					WFExMQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -53,9 +65,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1ExMg==</data>
+					<data>
+					X1ExMg==
+					</data>
 					<key>Replace</key>
-					<data>WFExMg==</data>
+					<data>
+					WFExMg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -63,9 +79,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1BEQwlwQ1BEQ2hgR0NBUA==</data>
+					<data>
+					X1BEQwlwQ1BEQ2hgR0NBUA==
+					</data>
 					<key>Replace</key>
-					<data>WFBEQwlwQ1BEQ2hgR0NBUA==</data>
+					<data>
+					WFBEQwlwQ1BEQ2hgR0NBUA==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -73,11 +93,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1BSVw==</data>
+					<data>
+					X1BSVw==
+					</data>
 					<key>Replace</key>
-					<data>WFBSVw==</data>
+					<data>
+					WFBSVw==
+					</data>
 					<key>TgtBridge</key>
-					<data>WEhDXw==</data>
+					<data>
+					WEhDXw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -85,11 +111,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1BSVw==</data>
+					<data>
+					X1BSVw==
+					</data>
 					<key>Replace</key>
-					<data>WFBSVw==</data>
+					<data>
+					WFBSVw==
+					</data>
 					<key>TgtBridge</key>
-					<data>WERDSQ==</data>
+					<data>
+					WERDSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -97,11 +129,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1BSVw==</data>
+					<data>
+					X1BSVw==
+					</data>
 					<key>Replace</key>
-					<data>WFBSVw==</data>
+					<data>
+					WFBSVw==
+					</data>
 					<key>TgtBridge</key>
-					<data>SERFRg==</data>
+					<data>
+					SERFRg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -109,11 +147,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1BSVw==</data>
+					<data>
+					X1BSVw==
+					</data>
 					<key>Replace</key>
-					<data>WFBSVw==</data>
+					<data>
+					WFBSVw==
+					</data>
 					<key>TgtBridge</key>
-					<data>SERBUw==</data>
+					<data>
+					SERBUw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -121,11 +165,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1BSVw==</data>
+					<data>
+					X1BSVw==
+					</data>
 					<key>Replace</key>
-					<data>WFBSVw==</data>
+					<data>
+					WFBSVw==
+					</data>
 					<key>TgtBridge</key>
-					<data>R0xBTg==</data>
+					<data>
+					R0xBTg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -133,11 +183,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X0RTTQ==</data>
+					<data>
+					X0RTTQ==
+					</data>
 					<key>Replace</key>
-					<data>WERTTQ==</data>
+					<data>
+					WERTTQ==
+					</data>
 					<key>TgtBridge</key>
-					<data>UEVHUA==</data>
+					<data>
+					UEVHUA==
+					</data>
 				</dict>
 			</array>
 		</dict>
@@ -234,11 +290,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>ILniAAAADzA=</data>
+				<data>
+				ILniAAAADzA=
+				</data>
 				<key>MatchOS</key>
 				<string>10.12</string>
 				<key>Replace</key>
-				<data>ILniAAAAkJA=</data>
+				<data>
+				ILniAAAAkJA=
+				</data>
 			</dict>
 		</array>
 		<key>KextsToPatch</key>
@@ -249,13 +309,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AEFQUExFIFNTRAA=</data>
+				<data>
+				AEFQUExFIFNTRAA=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>AAAAAAAAAAAAAAA=</data>
+				<data>
+				AAAAAAAAAAAAAAA=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -263,13 +327,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>PHN0cmluZz5wY2kxNDRkLGE4MDQ8L3N0cmluZz4=</data>
+				<data>
+				PHN0cmluZz5wY2kxNDRkLGE4MDQ8L3N0cmluZz4=
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>PHN0cmluZz5wY2kxNDRkLGE4MDI8L3N0cmluZz4=</data>
+				<data>
+				PHN0cmluZz5wY2kxNDRkLGE4MDI8L3N0cmluZz4=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -277,7 +345,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>ibPoAgAAweAMBQAQAACJgw==</data>
+				<data>
+				ibPoAgAAweAMBQAQAACJgw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -285,7 +355,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>ibPoAgAAweAJBQAQAACJgw==</data>
+				<data>
+				ibPoAgAAweAJBQAQAACJgw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -293,7 +365,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>D7aMiIIAAACD+QwPhTIBAA==</data>
+				<data>
+				D7aMiIIAAACD+QwPhTIBAA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -301,7 +375,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>D7aMiIIAAACD+QkPhTIBAA==</data>
+				<data>
+				D7aMiIIAAACD+QkPhTIBAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -309,7 +385,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AMeDpAAAAAAQAABIi0gISA==</data>
+				<data>
+				AMeDpAAAAAAQAABIi0gISA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -317,7 +395,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>AMeDpAAAAAACAABIi0gISA==</data>
+				<data>
+				AMeDpAAAAAACAABIi0gISA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -325,7 +405,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SYnGTYX2dGFBwecMSWP/vg==</data>
+				<data>
+				SYnGTYX2dGFBwecMSWP/vg==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -333,7 +415,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>SYnGTYX2dGFBwecJSWP/vg==</data>
+				<data>
+				SYnGTYX2dGFBwecJSWP/vg==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -341,7 +425,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>hv8PAABIwegMD7cPgeH/Dw==</data>
+				<data>
+				hv8PAABIwegMD7cPgeH/Dw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -349,7 +435,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>hv8PAABIwegJD7cPgeH/Dw==</data>
+				<data>
+				hv8PAABIwegJD7cPgeH/Dw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -357,7 +445,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>icGB4f8PAABIAdFIgfn/DwAAdzs=</data>
+				<data>
+				icGB4f8PAABIAdFIgfn/DwAAdzs=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -365,7 +455,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>icGB4f8BAABIAdFIgfn/AQAAdzs=</data>
+				<data>
+				icGB4f8BAABIAdFIgfn/AQAAdzs=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -373,7 +465,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SYHF/w8AAEnB7QxJiwQkSA==</data>
+				<data>
+				SYHF/w8AAEnB7QxJiwQkSA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -381,7 +475,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>SYHF/w8AAEnB7QlJiwQkSA==</data>
+				<data>
+				SYHF/w8AAEnB7QlJiwQkSA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -389,7 +485,10 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>BgIAAEyNuAAQAABMiflIgeEA8P//SYmGGgEAAEmJjiIBAABBvAAQAABJKfQ=</data>
+				<data>
+				BgIAAEyNuAAQAABMiflIgeEA8P//SYmGGgEAAEmJjiIB
+				AABBvAAQAABJKfQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -397,7 +496,10 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>BgIAAEyNuAACAABMiflIgeEA8P//SYmGGgEAAEmJjiIBAABBvAACAABJKfQ=</data>
+				<data>
+				BgIAAEyNuAACAABMiflIgeEA8P//SYmGGgEAAEmJjiIB
+				AABBvAACAABJKfQ=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -405,7 +507,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AABJiY4iAQAAugAQAABIKQ==</data>
+				<data>
+				AABJiY4iAQAAugAQAABIKQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -413,7 +517,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>AABJiY4iAQAAugACAABIKQ==</data>
+				<data>
+				AABJiY4iAQAAugACAABIKQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -421,7 +527,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>yAAAAEkp17gAEAAATYskJA==</data>
+				<data>
+				yAAAAEkp17gAEAAATYskJA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -429,7 +537,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>yAAAAEkp17gAAgAATYskJA==</data>
+				<data>
+				yAAAAEkp17gAAgAATYskJA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -437,7 +547,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>4b+AQBUGTYnWugAQAABFMQ==</data>
+				<data>
+				4b+AQBUGTYnWugAQAABFMQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -445,7 +557,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>4b+AQBUGTYnWugACAABFMQ==</data>
+				<data>
+				4b+AQBUGTYnWugACAABFMQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -453,7 +567,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>iWTY+EmBxAAQAABJgccA8A==</data>
+				<data>
+				iWTY+EmBxAAQAABJgccA8A==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -461,7 +577,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>iWTY+EmBxAACAABJgccA8A==</data>
+				<data>
+				iWTY+EmBxAACAABJgccA8A==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -469,7 +587,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>Bf8PAABIwegMZvfB/w8PlQ==</data>
+				<data>
+				Bf8PAABIwegMZvfB/w8PlQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -477,7 +597,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>Bf8PAABIwegJZvfB/w8PlQ==</data>
+				<data>
+				Bf8PAABIwegJZvfB/w8PlQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -485,7 +607,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>weIIQQ+2wcHgDEQJ0EQJwA==</data>
+				<data>
+				weIIQQ+2wcHgDEQJ0EQJwA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -493,7 +617,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>weIIQQ+2wcHgCUQJ0EQJwA==</data>
+				<data>
+				weIIQQ+2wcHgCUQJ0EQJwA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -501,7 +627,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>RYTJD5XAD7bAweAMRAnYRA==</data>
+				<data>
+				RYTJD5XAD7bAweAMRAnYRA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -509,7 +637,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>RYTJD5XAD7bAweAJRAnYRA==</data>
+				<data>
+				RYTJD5XAD7bAweAJRAnYRA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -517,7 +647,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>weAMBQAQAACJgw==</data>
+				<data>
+				weAMBQAQAACJgw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -525,7 +657,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>weAJBQAQAACJgw==</data>
+				<data>
+				weAJBQAQAACJgw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -533,7 +667,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>D7aMiIIAAACD+QwPhTIBAA==</data>
+				<data>
+				D7aMiIIAAACD+QwPhTIBAA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -541,7 +677,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>D7aMiIIAAACD+QkPhTIBAA==</data>
+				<data>
+				D7aMiIIAAACD+QkPhTIBAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -549,7 +687,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AMeDpAAAAAAQAABIi0gISA==</data>
+				<data>
+				AMeDpAAAAAAQAABIi0gISA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -557,7 +697,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>AMeDpAAAAAACAABIi0gISA==</data>
+				<data>
+				AMeDpAAAAAACAABIi0gISA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -565,7 +707,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SYnGTYX2dGFBwecMSWP/vg==</data>
+				<data>
+				SYnGTYX2dGFBwecMSWP/vg==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -573,7 +717,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>SYnGTYX2dGFBwecJSWP/vg==</data>
+				<data>
+				SYnGTYX2dGFBwecJSWP/vg==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -581,7 +727,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>hv8PAABIwegMD7cPgeH/Dw==</data>
+				<data>
+				hv8PAABIwegMD7cPgeH/Dw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -589,7 +737,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>hv8PAABIwegJD7cPgeH/Dw==</data>
+				<data>
+				hv8PAABIwegJD7cPgeH/Dw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -597,7 +747,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>icGB4f8PAABIAdFIgfn/DwAAdzs=</data>
+				<data>
+				icGB4f8PAABIAdFIgfn/DwAAdzs=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -605,7 +757,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>icGB4f8BAABIAdFIgfn/AQAAdzs=</data>
+				<data>
+				icGB4f8BAABIAdFIgfn/AQAAdzs=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -613,7 +767,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SYHF/w8AAEnB7QxJiwQkSA==</data>
+				<data>
+				SYHF/w8AAEnB7QxJiwQkSA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -621,7 +777,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>SYHF/w8AAEnB7QlJiwQkSA==</data>
+				<data>
+				SYHF/w8AAEnB7QlJiwQkSA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -629,7 +787,10 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>BgIAAEyNuAAQAABMiflIgeEA8P//SYmGGgEAAEmJjiIBAABBvAAQAABJKfQ=</data>
+				<data>
+				BgIAAEyNuAAQAABMiflIgeEA8P//SYmGGgEAAEmJjiIB
+				AABBvAAQAABJKfQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -637,7 +798,10 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>BgIAAEyNuAACAABMiflIgeEA8P//SYmGGgEAAEmJjiIBAABBvAACAABJKfQ=</data>
+				<data>
+				BgIAAEyNuAACAABMiflIgeEA8P//SYmGGgEAAEmJjiIB
+				AABBvAACAABJKfQ=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -645,7 +809,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AABJiY4iAQAAugAQAABIKQ==</data>
+				<data>
+				AABJiY4iAQAAugAQAABIKQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -653,7 +819,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>AABJiY4iAQAAugACAABIKQ==</data>
+				<data>
+				AABJiY4iAQAAugACAABIKQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -661,7 +829,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>yAAAAEkp17gAEAAATYskJA==</data>
+				<data>
+				yAAAAEkp17gAEAAATYskJA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -669,7 +839,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>yAAAAEkp17gAAgAATYskJA==</data>
+				<data>
+				yAAAAEkp17gAAgAATYskJA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -677,7 +849,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>4b+AQBUGTYnWugAQAABFMQ==</data>
+				<data>
+				4b+AQBUGTYnWugAQAABFMQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -685,7 +859,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>4b+AQBUGTYnWugACAABFMQ==</data>
+				<data>
+				4b+AQBUGTYnWugACAABFMQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -693,7 +869,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>iWTY+EmBxAAQAABJgccA8A==</data>
+				<data>
+				iWTY+EmBxAAQAABJgccA8A==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -701,7 +879,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>iWTY+EmBxAACAABJgccA8A==</data>
+				<data>
+				iWTY+EmBxAACAABJgccA8A==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -709,7 +889,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>Bf8PAABIwegMZvfB/w8PlQ==</data>
+				<data>
+				Bf8PAABIwegMZvfB/w8PlQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -717,7 +899,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>Bf8PAABIwegJZvfB/w8PlQ==</data>
+				<data>
+				Bf8PAABIwegJZvfB/w8PlQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -725,7 +909,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>weIIQQ+2wcHgDEQJ0EQJwA==</data>
+				<data>
+				weIIQQ+2wcHgDEQJ0EQJwA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -733,7 +919,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>weIIQQ+2wcHgCUQJ0EQJwA==</data>
+				<data>
+				weIIQQ+2wcHgCUQJ0EQJwA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -741,7 +929,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>RYTJD5XAD7bAweAMRAnYRA==</data>
+				<data>
+				RYTJD5XAD7bAweAMRAnYRA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchBuild</key>
@@ -749,7 +939,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>RYTJD5XAD7bAweAJRAnYRA==</data>
+				<data>
+				RYTJD5XAD7bAweAJRAnYRA==
+				</data>
 			</dict>
 		</array>
 	</dict>
@@ -760,22 +952,24 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>ROM</key>
-		<data>ZkOpIQTZ</data>
+		<data>
+		ZkOpIQTZ
+		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>10/30/2019</string>
+		<string>04/24/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP143.88Z.F000.B00.1910301943</string>
+		<string>MBP143.88Z.F000.B00.2004240928</string>
 		<key>Board-ID</key>
 		<string>Mac-551B86E5744E2388</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02851700QXJ1JH1M</string>
+		<string>C02831404GUJ1JH1F</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -787,7 +981,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>203.0.0.0.0</string>
+		<string>207.0.0.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -805,9 +999,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,3</string>
 		<key>SerialNumber</key>
-		<string>C02XV0JUHTD5</string>
+		<string>C02X55ZXHTD5</string>
 		<key>SmUUID</key>
-		<string>0B6215DC-63C9-4CCA-B78C-588C8EFA469C</string>
+		<string>B12993D3-121C-4821-95D9-B37D0E3328A1</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
